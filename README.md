@@ -24,23 +24,23 @@
 <h2 align="center"> Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
-  <code><img title="C" height="25" src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png"></code>
-  <code><img title="C++" height="25" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></code>
-  <code><img title="C#" height="25" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>
-  <code><img title="Python" height="25" src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png"></code>
-  <code><img title="Java" height="25" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
-  <code><img title="HTML5" height="25" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"></code>
-  <code><img title="CSS" height="25" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
-  <code><img title="Javascipt" height="25" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"></code>
-  <code><img title="React" height="25" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"></code>
-  <code><img title="NodeJS" height="25" src="https://cdn-icons-png.flaticon.com/512/919/919825.png"></code>
-  <code><img title="Git" height="25" src="https://cdn-icons-png.flaticon.com/512/11518/11518876.png"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://code.visualstudio.com/assets/images/code-stable.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://cdn-icons-png.flaticon.com/512/906/906324.png"></code>
-  <code><img title="Unity" height="25" src="https://cdn-icons-png.flaticon.com/512/5969/5969347.png"></code>
-  <code><img title="GitHub" height="25" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></code>
-  <code><img title="MySQL" height="25" src="https://cdn-icons-png.flaticon.com/512/919/919836.png"></code>
-  <code><img title="Figma" height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"></code>
+  <code><img title="C" height="40" src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png"></code>
+  <code><img title="C++" height="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></code>
+  <code><img title="C#" height="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>
+  <code><img title="Python" height="40" src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png"></code>
+  <code><img title="Java" height="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
+  <code><img title="HTML5" height="40" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"></code>
+  <code><img title="CSS" height="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
+  <code><img title="Javascipt" height="40" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"></code>
+  <code><img title="React" height="40" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"></code>
+  <code><img title="NodeJS" height="40" src="https://cdn-icons-png.flaticon.com/512/919/919825.png"></code>
+  <code><img title="Git" height="40" src="https://cdn-icons-png.flaticon.com/512/11518/11518876.png"></code>
+  <code><img title="Visual Studio Code" height="40" src="https://code.visualstudio.com/assets/images/code-stable.png"></code>
+  <code><img title="Microsoft Visual Studio" height="40" src="https://cdn-icons-png.flaticon.com/512/906/906324.png"></code>
+  <code><img title="Unity" height="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969347.png"></code>
+  <code><img title="GitHub" height="40" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></code>
+  <code><img title="MySQL" height="40" src="https://cdn-icons-png.flaticon.com/512/919/919836.png"></code>
+  <code><img title="Figma" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"></code>
 </p>
 
 <h2 align="center"> Github Stats</h2>
