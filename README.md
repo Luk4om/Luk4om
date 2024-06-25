@@ -14,8 +14,7 @@
   Hi, I'm Phatcharaphon Laoruchiralai, Bachelor of Computer Science students from Thailand
 </p>
 
--
- 🔭 &nbsp; Music to listen to while working [Youtube](https://www.youtube.com/watch?v=3aCctY3DGac)
+- 🔭 &nbsp; Music to listen to while working [Youtube](https://www.youtube.com/watch?v=3aCctY3DGac)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Luk4om?tab=repositories)
 - 🌱 &nbsp; I have the intention to learn new things. 
 - 💬 &nbsp; Feel free to talk and ask questions about technology.
