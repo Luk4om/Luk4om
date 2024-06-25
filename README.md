@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Nice+to+meet+you.+❤️;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Everyone!;I'm+Phatcharaphon;Nice+to+meet+you.+❤️&center=true&size=30">
   </a>
 </h1>
 
@@ -14,7 +14,8 @@
   Hi, I'm Phatcharaphon Laoruchiralai, Bachelor of Computer Science students from Thailand
 </p>
 
-- 🔭 &nbsp; Music to listen to while working [Youtube](https://www.youtube.com/watch?v=3aCctY3DGac)
+-
+ 🔭 &nbsp; Music to listen to while working [Youtube](https://www.youtube.com/watch?v=3aCctY3DGac)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Luk4om?tab=repositories)
 - 🌱 &nbsp; I have the intention to learn new things. 
 - 💬 &nbsp; Feel free to talk and ask questions about technology.
