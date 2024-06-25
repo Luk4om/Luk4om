@@ -24,22 +24,23 @@
 <h2 align="center"> Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></code>
-  <code><img title="Java" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="React" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></code>
-  <code><img title="NodeJS" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></code>
-  <code><img title="Git" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Figma" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></code>
+  <code><img title="C" height="25" src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png"></code>
+  <code><img title="C++" height="25" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></code>
+  <code><img title="C#" height="25" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>
+  <code><img title="Python" height="25" src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png"></code>
+  <code><img title="Java" height="25" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
+  <code><img title="HTML5" height="25" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"></code>
+  <code><img title="CSS" height="25" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
+  <code><img title="Javascipt" height="25" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"></code>
+  <code><img title="React" height="25" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"></code>
+  <code><img title="NodeJS" height="25" src="https://cdn-icons-png.flaticon.com/512/919/919825.png"></code>
+  <code><img title="Git" height="25" src="https://cdn-icons-png.flaticon.com/512/11518/11518876.png"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://code.visualstudio.com/assets/images/code-stable.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://cdn-icons-png.flaticon.com/512/906/906324.png"></code>
+  <code><img title="Unity" height="25" src="https://cdn-icons-png.flaticon.com/512/5969/5969347.png"></code>
+  <code><img title="GitHub" height="25" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></code>
+  <code><img title="MySQL" height="25" src="https://cdn-icons-png.flaticon.com/512/919/919836.png"></code>
+  <code><img title="Figma" height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"></code>
 </p>
 
 <h2 align="center"> Github Stats</h2>
