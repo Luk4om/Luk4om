@@ -46,8 +46,10 @@
 
 <a href='https://github.com/Luk4om/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/Luk4om/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Luk4om/github-stats-transparent/output/generated/languages.svg)
+<div style="display: flex; justify-content: space-between;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Luk4om&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 50%;"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4om&layout=compact&theme=radical" alt="Top Langs" style="width: 38%;"/>
+</div>
 
 </a>
 <!--------------------------------------------------------------------------------------------------------------------------------------------->
