@@ -16,7 +16,8 @@
 
 - 🔭 &nbsp; Music to listen to while working [Youtube](https://www.youtube.com/watch?v=3aCctY3DGac)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Luk4om?tab=repositories)
-- 🌱 &nbsp; I have the intention to learn new things. 
+-
+ 🌱 &nbsp; I have the intention to learn new things. 
 - 💬 &nbsp; Feel free to talk and ask questions about technology.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1PwdDl8uoDIBLrjHCqD3BT8vmCC4xITz7/view?usp=sharing)
 - 📫 &nbsp; How to reach me: <a href="mailto: phatcharaphon.lr@gmail.com">phatcharaphon.lr@gmail.com</a>
@@ -36,8 +37,7 @@
   <code><img title="NodeJS" height="40" src="https://cdn-icons-png.flaticon.com/512/919/919825.png"></code>
   <code><img title="Git" height="40" src="https://cdn-icons-png.flaticon.com/512/11518/11518876.png"></code>
   <code><img title="Visual Studio Code" height="40" src="https://icons8.com/icon/0OQR1FYCuA9f/visual-studio-code-2019"></code>
-  <code><img title="Microsoft Visual Studio" height="40" src="https://cdn-icons-png.flaticon.com/512/906/906324.png"></
-code>
+  <code><img title="Microsoft Visual Studio" height="40" src="https://cdn-icons-png.flaticon.com/512/906/906324.png"></code>
   <code><img title="Unity" height="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969347.png"></code>
   <code><img title="GitHub" height="40" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></code>
   <code><img title="MySQL" height="40" src="https://cdn-icons-png.flaticon.com/512/919/919836.png"></code>
