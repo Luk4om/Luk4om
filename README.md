@@ -16,8 +16,7 @@
 
 - 🔭 &nbsp; Music to listen to while working [Youtube](https://www.youtube.com/watch?v=3aCctY3DGac)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Luk4om?tab=repositories)
--
- 🌱 &nbsp; I have the intention to learn new things. 
+- 🌱 &nbsp; I have the intention to learn new things. 
 - 💬 &nbsp; Feel free to talk and ask questions about technology.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1PwdDl8uoDIBLrjHCqD3BT8vmCC4xITz7/view?usp=sharing)
 - 📫 &nbsp; How to reach me: <a href="mailto: phatcharaphon.lr@gmail.com">phatcharaphon.lr@gmail.com</a>
