@@ -18,7 +18,7 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Luk4om?tab=repositories)
 - 🌱 &nbsp; I have the intention to learn new things. 
 - 💬 &nbsp; Feel free to talk and ask questions about technology.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1PwdDl8uoDIBLrjHCqD3BT8vmCC4xITz7/view?usp=sharing)
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/14ejQWBXk6M8RrVg99uz1rj02BNHdgS23/view?usp=drive_link)
 - 🥰 &nbsp; Portfolio Website [Next.JS](https://phatcharaphon-portfolio.vercel.app/)
 - 📫 &nbsp; How to reach me <a href="mailto: phatcharaphon.lr@gmail.com">phatcharaphon.lr@gmail.com</a>
 - 👑 &nbsp; Project
