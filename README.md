@@ -7,8 +7,9 @@
 <h5 align="center">
   <code><a href="https://www.facebook.com/HallsXII/" title="Facebook Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png"> Facebook</a></code>
   <code><a href="https://www.instagram.com/luk._.aom/" title="Instagram Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/15713/15713420.png"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/phatcharaphon-lao/" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"> LinkedIn</a></code>
 </h5>
-<br>
+<br>  
 
 <p align="center"> 
   Hi, I'm Phatcharaphon Laoruchiralai, Bachelor of Computer Science students from Thailand
@@ -18,7 +19,7 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Luk4om?tab=repositories)
 - 🌱 &nbsp; I have the intention to learn new things. 
 - 💬 &nbsp; Feel free to talk and ask questions about technology.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/14ejQWBXk6M8RrVg99uz1rj02BNHdgS23/view?usp=drive_link)
+- 📝 &nbsp; Checkout my [CV (Curriculum Vitae)](https://drive.google.com/file/d/14ejQWBXk6M8RrVg99uz1rj02BNHdgS23/view?usp=drive_link)
 - 🥰 &nbsp; Portfolio Website [Next.JS](https://phatcharaphon-portfolio.vercel.app/)
 - 📫 &nbsp; How to reach me <a href="mailto: phatcharaphon.lr@gmail.com">phatcharaphon.lr@gmail.com</a>
 - 👑 &nbsp; Project
