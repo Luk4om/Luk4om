@@ -24,6 +24,7 @@
 - 📫 &nbsp; How to reach me <a href="mailto: phatcharaphon.lr@gmail.com">phatcharaphon.lr@gmail.com</a>
 - 👑 &nbsp; Project
   - Todo-list [Rust](https://fullstack-todolist-rust.vercel.app/)
+  - AI Agent [TIDB](https://ai-agent-tidb-langchain.vercel.app/)
 
 <h2 align="center"> Languages & Frameworks & Tools & Abilities</h2>
 
