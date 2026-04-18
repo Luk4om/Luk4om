@@ -25,6 +25,7 @@
 - 👑 &nbsp; Project
   - Todo-list [Rust](https://fullstack-todolist-rust.vercel.app/)
   - AI Agent [TIDB](https://ai-agent-tidb-langchain.vercel.app/)
+  - Vision AI [ONNX + Celery + Hugging Face Spaces + Redis](https://yolo-cls-web.vercel.app/)
 
 <h2 align="center"> Languages & Frameworks & Tools & Abilities</h2>
 
