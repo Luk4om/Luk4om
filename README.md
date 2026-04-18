@@ -39,6 +39,7 @@
   <code><img title="CSS" height="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
   <code><img title="Javascipt" height="40" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"></code>
   <code><img title="React" height="40" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"></code>
+  <code><img title="NextJS" height="40" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png"></code>
   <code><img title="NodeJS" height="40" src="https://cdn-icons-png.flaticon.com/512/919/919825.png"></code>
   <code><img title="Git" height="40" src="https://cdn-icons-png.flaticon.com/512/11518/11518876.png"></code>
   <code><img title="Visual Studio Code" height="40" src="https://code.visualstudio.com/assets/branding/code-stable.png"></code>
